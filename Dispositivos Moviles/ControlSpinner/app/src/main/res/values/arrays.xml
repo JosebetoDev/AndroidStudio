@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="Estados">
+        <item>CDMX</item>
+        <item>Jalisco</item>
+        <item>Queretaro</item>
+        <item>Estado de Mexico</item>
+        <item>Tijuana</item>
+    </string-array>
+</resources>
