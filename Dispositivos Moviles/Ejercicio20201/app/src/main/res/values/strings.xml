@@ -5,4 +5,5 @@
     <string name="edad">Ingresa tu edad:</string>
     <string name="telefono">Ingresa tu Telefono</string>
     <string name="correo">Ingresa tu correo</string>
+    <string name="btnMuestra">Procesa la informacion</string>
 </resources>
