@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Multipantalla</string>
+    <string name="tipoCelular">Celular</string>
+    <string name="vhorizontal">Horizontal</string>
+    <string name="vVertical">Vertical</string>
+    <string name="milogo">LogoKoder</string>
+    <string name="tableta">Tableta</string>
+</resources>
