@@ -6,4 +6,14 @@
     <string name="INombre">Ingresa nombre</string>
     <string name="IEdad">Ingresa tu Edad</string>
     <string name="ISexo">Ingresa tu Sexo</string>
+    <string name="listaRegistros">Listado de Contactos</string>
+    <string name="listaelementos">Listar Usuarios</string>
+    <string name="btnListarElementos">Listar Usuarios</string>
+    <string name="dInformacion">Informacion Usuario</string>
+    <string name="DNombre">Nombre</string>
+    <string name="dId">ID</string>
+    <string name="lblEdad">Edad</string>
+    <string name="lblSexo">Sexo</string>
+    <string name="btnActualizar">Actualizar</string>
+    <string name="btnEliminar">Eliminar</string>
 </resources>

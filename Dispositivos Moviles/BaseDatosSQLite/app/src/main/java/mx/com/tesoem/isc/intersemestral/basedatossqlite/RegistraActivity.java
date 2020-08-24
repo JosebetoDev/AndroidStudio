@@ -17,7 +17,7 @@ public class RegistraActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_registra);
-        txtNombre = findViewById(R.id.txtNombre);
+        txtNombre = findViewById(R.id.txtNombreElemento);
         txtEdad = findViewById(R.id.txtEdad);
         txtSexo = findViewById(R.id.txtSexo);
     }

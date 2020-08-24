@@ -17,4 +17,8 @@ public class MainActivity extends AppCompatActivity {
         Intent intent = new Intent(this,RegistraActivity.class);
         startActivity(intent);
     }
+    public void LanzarLista(View v){
+        Intent intent = new Intent(this,ListarInformacionActivity.class);
+        startActivity(intent);
+    }
 }
